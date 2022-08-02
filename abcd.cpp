@@ -9,5 +9,6 @@ int main() {
 	int t;cin >> t;
 	while(t--) {
 		cout << "Non\n";
+		cout << ":V"
 	}
 }
